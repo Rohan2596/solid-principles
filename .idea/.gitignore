@@ -9,4 +9,7 @@
 sonarlint
 .name
 /compiler.xml
-
+.idea/runConfigurations.xml
+.idea/jarRepositories.xml
+.idea/vcs.xml
+.idea/misc.xml
